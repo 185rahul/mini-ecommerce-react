@@ -6,4 +6,4 @@ Technical Information
 The performance of the application is better now. We used React.memo. Usecallback to make sure that things do not get re-rendered when they do not need to. This helps React.memo and useCallback to work efficiently and avoid unnecessary re-renders.
 Tech Stack: Plain CSS (no UI libraries used) and React (functional components).
 Bonus: Cart data is saved with persistence using LocalStorage.
-![App Preview](./app-ss.png)
+LIVE PREVIEW-Screenshot 2026-01-04 135220.png
